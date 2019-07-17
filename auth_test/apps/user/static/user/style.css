@@ -1,0 +1,12 @@
+html, body, ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar-default{
+    background-color: #bbb
+}
+
+.navbar-nav li{
+ display: inline-flex
+}
